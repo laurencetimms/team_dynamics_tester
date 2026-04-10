@@ -1,4 +1,4 @@
-# Team Dynamics Coach
+# Team Dynamics Coach/Test Harness
 
 A longitudinal team dynamics coaching tool built on Claude, with a structured state document, evidence-grounded reasoning, and a test suite derived from the CEBMa (2023) high-performing teams evidence review.
 
